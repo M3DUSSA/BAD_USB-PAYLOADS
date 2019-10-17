@@ -1,3 +1,6 @@
+//COMPILE WITH ARDUINO
+
+
 #include <HID-Project.h>
 #include <HID-Settings.h>
 void typeKey(int key){
